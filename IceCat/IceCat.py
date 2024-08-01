@@ -16,7 +16,7 @@ from IceCat import bulk_downloader
 
 
 # English only
-langid = "1"
+langid = "2"
 '''
 Process only English data
 '''
